@@ -8,7 +8,7 @@ In this this project, I implemented the K-means algorithm and used it for image 
 
 #### Project files
 
-- ex7.m - Octave/MATLAB script for the first exercise on K-means
+- ex7.m - MATLAB script for the project(main file)
 - ex7data2.mat - Example Dataset for K-means
 - bird small.png - Example Image
 - displayData.m - Displays 2D data stored in a matrix
